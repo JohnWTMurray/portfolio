@@ -4,6 +4,11 @@ body {
   margin: 0px 0px;
 }
 
+img {
+	width: 50%;
+/* 	border-radius: 100%; */
+}
+
 
 .introduction {
   height: 350px;
